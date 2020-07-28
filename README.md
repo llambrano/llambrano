@@ -1,5 +1,5 @@
 ## Hi, I'm Libardo 👋
-:co:
+:colombia:
 
 
 <!--
