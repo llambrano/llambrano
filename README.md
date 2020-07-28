@@ -1,4 +1,4 @@
-### Hi, I'm Libardo 👋
+## Hi, I'm Libardo 👋
 
 
 <!--
