@@ -6,9 +6,7 @@ I'm a performance marketing leader, passionate about data and analytics. I love 
  <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/llambrano/llambrano/blob/master/images/angry-man.png?raw=true"></a>
 
 ### Find me around the web: 
-- Twitter <a href="https://twitter.com/llambrano"> www.twitter.com/llambrano</a>
 - LinkedIn <a href="https://www.linkedin.com/in/libardo-lambrano/"> www.linkedin.com/in/libardo-lambrano/</a>
-- Medium <a href="https://medium.com/@libardolambrano"> www.medium.com/@libardolambrano</a>
 
 
 
