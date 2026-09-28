@@ -19,7 +19,7 @@ These days I build most of my dashboards with AI. With tools like Claude Cowork 
 
 <h3>🧰 Tools I work with</h3>
 <p>
-Claude Cowork · ChatGPT Cowork · Gemini · Tableau · Adobe Analytics · ThoughtSpot · Power BI · MicroStrategy · Python (Pandas, Matplotlib, Seaborn) · SQL · APIs
+Claude Cowork · ChatGPT Cowork · Gemini · Tableau · Adobe Analytics · ThoughtSpot · Power BI · MicroStrategy
 </p>
 
 <p>
