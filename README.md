@@ -12,6 +12,7 @@ These days I build most of my dashboards with AI. With tools like Claude Cowork 
 
 <h3>📊 Featured dashboards</h3>
 <ul>
+  <li>🏨 <a href="https://llambrano.github.io/hotel-performance-benchmark/"><b>Hotel Performance Benchmark</b></a>: one hotel vs. its compset, market, brand and tier, with MPI / ARI / RGI and minimum-peer rules</li>
   <li>📈 <a href="https://llambrano.github.io/hotel-market-demand-pacing/"><b>Hotel Market Demand Pacing</b></a>: occupancy on the books vs. last year across 50 markets and every future stay month</li>
   <li>✈️ <a href="https://llambrano.github.io/air-travel-dashboard-demo/"><b>International Air Travel Dashboard</b></a>: U.S. international air departures by destination, 2011–2026 (NTTO data)</li>
   <li>🏗️ <a href="https://llambrano.github.io/hotel-data-viz/"><b>Hotel Data Viz</b></a>: animated charts on the forces shaping the hotel industry</li>
